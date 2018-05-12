@@ -1,0 +1,40 @@
+_repo: Hoyle-s-Games-Modernized_39445
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hoyle, Edmond
+    birthdate: 1672
+    deathdate: 1769
+    gutenberg_agent_id: '44881'
+    url: http://www.gutenberg.org/2009/agents/44881
+  - agent_name: Hoffmann, Professor
+    aliases:
+    - Lewis, Angelo John
+    - Hoffmann, Louis
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '40022'
+    url: http://www.gutenberg.org/2009/agents/40022
+description: ''
+gutenberg_issued: '2012-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Card games'
+- !lcsh 'Indoor games'
+- !lcc 'GV'
+tableOfContents: All Fours -- Baccarat -- Bézique -- Blind Hookey -- Cribbage -- Écarté
+  -- Euchre -- Loo -- Napoleon -- Piquet -- Poker -- Pope Joan -- Solo Whist -- Vingt-Un
+  -- Whist -- Bridge -- Auction Bridge -- Five Hundred -- Quinto -- Poker Patience
+  -- Backgammon -- Bagatelle -- Billiards -- Pool -- Snooker Pool -- Chess -- Draughts
+  -- Roulette -- Trente et Quarante.
+title: Hoyle's Games Modernized
+url: http://www.gutenberg.org/ebooks/39445
